@@ -16,8 +16,8 @@
 ### 运行示例
 
 1. 打开文件 `TuFace.php`, 把类 `TuFace` 的 `key` 属性修改为您的 `API私有key`，把类 `TuFace` 的 `pid` 属性修改为您的 `API公有key`
-2. 打开文件 `demo.php`，修改 `$file` 变量为您需要发送的图片地址或URL
-3. 运行示例文件 `demo.php`
+2. 人脸基础API示例程序, 运行 `demo.php`
+3. 人脸分组API示例程序, 运行 `group_demo.php`
 
 
 ## 关注
