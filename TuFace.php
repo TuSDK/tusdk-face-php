@@ -10,7 +10,7 @@ class TuFace {
     /**
      * api 服务地址 
      */
-    const API_URL = 'http://srv.tusdk.com/srv/face/';
+    const API_URL = 'https://srv.tusdk.com/srv/face/';
 
     /**
      *  私有key
